@@ -1,8 +1,8 @@
 {
-  "name": "example",
+  "name": "snek",
   "version": "1.0.0",
   "description": "To run this  simply run `npm run snek`",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "snek": "electron main.js"
   },
