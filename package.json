@@ -1,0 +1,20 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "To run this  simply run `npm run snek`",
+  "main": "main.js",
+  "scripts": {
+    "snek": "electron main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "ws": "^7.5.3"
+  },
+  "devDependencies": {
+    "electron": "^7.1.9"
+  }
+}
